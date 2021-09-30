@@ -1,0 +1,17 @@
+
+*{
+    box-sizing: border-box;
+}
+ html{
+     font-family: 'Times New Roman', Times, serif;
+ }
+  body{
+      
+      background-image: linear-gradient(white , skyblue , white );
+  }
+  .he2{
+      text-align: center;
+      font-size: 40px;
+      color: rgb(51, 75, 90);
+      font-family: Arial, Helvetica, sans-serif;
+  }
